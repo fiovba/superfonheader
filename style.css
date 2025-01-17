@@ -123,7 +123,6 @@ svg {
     width: auto;
     max-width: 250px;
     background-color: white;
-    z-index: 10;
     box-shadow: 0 7px 14px rgba(65, 69, 88, 0.1), 0 3px 6px rgba(0, 0, 0, 0.07);
     padding: 0 10px;
     overflow-x: hidden;
