@@ -17,7 +17,9 @@ header {
     justify-content: start;
     align-items: start;
 }
-
+i{
+    padding-right:10px;
+}
 .sebet {
     padding-left: 10px;
     margin-left: auto; 
