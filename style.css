@@ -107,9 +107,8 @@ svg {
     position: absolute;
     top: 100%;
     left: 0;
-    min-width:300px;
+    min-width:100%;
     background-color: white;
-    box-shadow: 0 7px 14px 0 rgba(65, 69, 88, 0.1), 0 3px 6px 0 rgba(0, 0, 0, 0.07);
 }
 
 .hoveredMenu #menu1 {
@@ -122,7 +121,7 @@ svg {
     position: absolute;
     left: 100%;
     top: 0;
-    min-width:100px;
+    min-width:60%;
     background-color: white;
 }
 
