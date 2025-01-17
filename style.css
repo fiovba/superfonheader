@@ -119,13 +119,11 @@ svg {
 
 .ichMenu {
     display: none;
-    padding-left: 15px;
     position: absolute;
     left: 100%;
     top: 0;
     min-width:100px;
     background-color: white;
-    box-shadow: 0 7px 14px 0 rgba(65, 69, 88, 0.1), 0 3px 6px 0 rgba(0, 0, 0, 0.07);
 }
 
 li {
@@ -135,8 +133,6 @@ li {
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    font-size: .9rem;
-    line-height: 1rem;
     color: black;
     height: 55px;
 }
